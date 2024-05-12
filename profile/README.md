@@ -13,11 +13,10 @@ directions:
 model that is capable of more accurate and faster translations with different sign language options for different
 regions in the world - Based on the following Data sets:
 
-
-> Phoenix 2014 Dataset (German Sign Language Videos)
-> OpenASL Dataset (American Sign Language Videos)
-> CSL Dataset (Chinese Sign Language Videos)
-> BOBSL Dataset (British Sign Language Videos)
+. Phoenix 2014 Dataset (German Sign Language Videos)
+. OpenASL Dataset (American Sign Language Videos)
+. CSL Dataset (Chinese Sign Language Videos)
+. BOBSL Dataset (British Sign Language Videos)
 
 
 – Tools & technologies used: PyTorch, CUDA, ONNX, Flutter, OpenCV, Django back-end development
