@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://github.com/Hyper-Bits-Computer-Vision/.github/blob/main/profile/Demo1_Thumbnail.png)](https://www.youtube.com/watch?v=9l5DoEMtmWM)
+[![IMAGE ALT TEXT HERE](https://github.com/Hyper-Bits-Computer-Vision/.github/blob/main/profile/Thumbnail.png)](https://www.youtube.com/watch?v=9l5DoEMtmWM)
 
 
 
