@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=9l5DoEMtmWM)
+[![IMAGE ALT TEXT HERE]([https://img.youtube.com/vi/](https://github.com/Hyper-Bits-Computer-Vision/.github/blob/main/profile/Demo1_Thumbnail.png?raw=true))](https://www.youtube.com/watch?v=9l5DoEMtmWM)
 
 
 – HyperTalk mobile app and the website both are computer vision-based solutions to facilitate communication in
