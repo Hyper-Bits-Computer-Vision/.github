@@ -23,4 +23,12 @@ regions in the world - Based on the following Data sets:
 * BOBSL Dataset (British Sign Language Videos)
 
 
+- Team Members:
+* [Hasitha Gallella](https://github.com/HasithaGallella)
+* [kavindu-damsith](https://github.com/kavindu-damsith-65)
+* [Janeesha Wickramasinghe](https://github.com/JaneeshaJ2001)
+* [Sandun Herath](https://github.com/sandun21)
+* [Malitha Prabhashana](https://github.com/MalithaPrabhashana)
+
+
 – Tools & technologies used: PyTorch, CUDA, ONNX, Flutter, OpenCV, Django back-end development
